@@ -17,7 +17,7 @@ The system is intelligent enough to generate accurate queries for given question
 - AtliQ Tees is a t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts 
 - Their inventory, sales and discounts data is stored in a MySQL database
 - We will build an LLM based question and answer system that will use following,
-  - Google Palm LLM
+  - Google Gemini-pro LLM
   - Hugging face embeddings
   - Streamlit for UI
   - Langchain framework
